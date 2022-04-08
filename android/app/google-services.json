@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214573148577",
+    "project_id": "kssmart-de561",
+    "storage_bucket": "kssmart-de561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214573148577:android:c3ef5134a2281ee9ec83e0",
+        "android_client_info": {
+          "package_name": "com.example.kssmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214573148577-ko91gpu983l2evd9mpijgeq21jrgg13b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZxoSU19qjxl7xinDt0dRr627cdOncGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214573148577-ko91gpu983l2evd9mpijgeq21jrgg13b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
